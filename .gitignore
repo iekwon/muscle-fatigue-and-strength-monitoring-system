@@ -1,0 +1,7 @@
+cv_env/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+*.xlsx
